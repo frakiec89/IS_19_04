@@ -12,8 +12,6 @@ namespace ConsoleApp40
             GroupController groups = new GroupController(); // список групп
             UserController users = new UserController(); // список  юзеров
 
-            Console.bu
-
             InformMessage2("Вас приветствует программа \"отдел  кадров\""); // приветствие
             while (true)
             {
